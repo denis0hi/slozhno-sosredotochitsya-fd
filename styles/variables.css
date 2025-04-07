@@ -26,10 +26,5 @@
   --button-hover: 1px #ff007066 solid;
   --button-focus: 1px #ff0070 solid;
   --link-hover: 1px #f1b2ce solid;
-}
-.theme-auto .header {
-  background-image: var(--bg-image-dark);
-}
-.theme-auto .page {
-  background: var(--bg-color);
+  --header-мisibility-rec: flex;
 }

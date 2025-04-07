@@ -23,13 +23,5 @@
   --main-title-decor: #000028;
   --footer-title: #db00ff;
   --button-hover: 1px #ff007066 solid;
-}
-
-.theme-dark .page {
-  background: var(--bg-color);
-}
-
-.theme-dark .header {
-  /* Вам также нужно будет написать ряд подобных селекторов */
-  background-image: var(--bg-image-dark);
+  --header-мisibility-rec: flex;
 }
