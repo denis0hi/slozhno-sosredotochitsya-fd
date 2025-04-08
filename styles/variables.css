@@ -1,8 +1,3 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
-
 :root {
   --hf-text-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --main-text-size: 18px;
@@ -10,7 +5,7 @@
   --main-text-weight-bold: bold;
   --main-text-lh: 23.4px;
   --main-font: "IBM Plex mono", sans-serif;
-  --bg-image-dark: url("/images/cover-image-dark.png");
+  --bg-image: url("/images/cover-image-dark.png");
   --bg-color: #000028;
   --header-title: #db00ff;
   --header-title-shadow: 4px 4px 0px #ff0070;
@@ -26,5 +21,5 @@
   --button-hover: 1px #ff007066 solid;
   --button-focus: 1px #ff0070 solid;
   --link-hover: 1px #f1b2ce solid;
-  --header-мisibility-rec: flex;
+  --header-visibility-rec: flex;
 }
