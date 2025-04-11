@@ -1,5 +1,5 @@
 :root.theme-light {
-  --bg-image: url("/images/cover-image-light.png");
+  --bg-image: url("../images/cover-image-light.png");
   --bg-color: #fff1f7;
   --main-text: #353430;
   --header-title-shadow: 4px 4px 0px #ff8dcb;
@@ -19,7 +19,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --bg-image: url("/images/cover-image-light.png");
+    --bg-image: url("../images/cover-image-light.png");
     --main-text: #353430;
     --button-hover: 1px #32312d66 solid;
     --button-focus: 1px #353430 solid;
@@ -33,9 +33,5 @@
     --header-button: #353430;
     --footer-title: #ffc2e6;
     --header-visibility-rec: none;
-  }
-
-  .theme-light .page {
-    background-image: var(--bg-image);
   }
 }
