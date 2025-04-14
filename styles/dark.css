@@ -13,5 +13,7 @@
   --main-title-decor: #000028;
   --footer-title: #db00ff;
   --button-hover: 1px #ff007066 solid;
+  --button-focus: 1px #FF0070 solid;
   --header-visibility-rec: flex;
+  --link-hover: 1px #FF007066 solid;
 }

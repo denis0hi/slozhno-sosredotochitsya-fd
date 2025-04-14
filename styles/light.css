@@ -33,5 +33,6 @@
     --header-button: #353430;
     --footer-title: #ffc2e6;
     --header-visibility-rec: none;
+    --link-hover: 1px #353430 solid;
   }
 }
