@@ -378,7 +378,6 @@ h1 {
 
   .main__content-section {
     grid-template-columns: none;
-    grid-template-rows: auto;
   }
 
   .decorated-zone::before {
